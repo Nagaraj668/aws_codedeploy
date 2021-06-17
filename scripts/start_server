@@ -1,2 +1,3 @@
 #!/bin/bash
-service httpd start
+cd /deploy
+java -jar springboot.jar
